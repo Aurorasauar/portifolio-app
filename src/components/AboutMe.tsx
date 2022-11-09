@@ -14,10 +14,13 @@ const AboutMe = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-3xl ">
-            <p>Hi. I´m Ada, nice to meet you. Pleace take a look around.</p>
+            <p>My name is Aurora and I am a 24 year old woman from Oslo studying Cybernetics and robotics and Industrial economy and technology management. </p>
           </div>
           <div>
-            <p>I am passionate about tech and solving problems with code.</p>
+            <p>I am currently in my 5th year at Cyrbernetics and robotics at NTNU writing my master thesis about Visualization of explainable AI. In addition, I am in my 4th year in Industrial economics and technology management.
+              During my studies in Trondheim I have been involved in several internships and part time jobs, such as Jenteprosjektet Ada, Ent3r, Junior Consulting, Cisco, Nordic Semiconductor and Firda.
+              Besides work I enjoy volunteering and have had engagements in 'Samfundets konsept og prosjekteringsgruppe', UKA-17, UKA-19 and UKA-21 working as an executive chef, deputy chairman, event manager and as a singer.
+              I thrive on a full calendar and I am passionate about innovation, technology and leadership.</p>
           </div>
         </div>
       </div>
